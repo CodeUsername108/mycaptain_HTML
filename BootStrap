@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE-Edge">
+        <meta name="viewport" content="width=device-width",initial-scale = "1.0">
+        <title>PokeWeb-Top 5 Shiny Pokemon</title>
+        <link rel="Stylesheet" href="style2.css">
+    </head>
+    <body>
+        <main id = "main" class = "main-content grid container">
+        <h1>
+            My Favourite Shiny Pokemon
+        </h1>
+    <div class="card" style="width: 18rem;">
+    <img src="gyarados.png" alt="Card image cap">
+    <div class="card-body">
+      <p class="card-text">Shiny Gyarados</p>
+    </div>
+    </div>
+    <div class="card" style="width: 18rem;">
+        <img src="azumarill.png" alt="Card image cap">
+        <div class="card-body">
+          <p class="card-text">Shiny Azumarill</p>
+        </div>
+        </div>
+    <div class="card" style="width: 18rem;">
+    <img src="charizard.png" alt="Card image cap">
+    <div class="card-body">
+      <p class="card-text">Shiny Charizard</p>
+    </div>
+    </div>
+    <div class="card" style="width: 18rem;">
+    <img src="chandelure.png" alt="Card image cap">
+    <div class="card-body">
+      <p class="card-text">Shiny Chandelure</p>
+    </div>
+    </div>
+    <div class="card" style="width: 18rem;">
+    <img src="celebi.png" alt="Card image cap">
+    <div class="card-body">
+      <p class="card-text">Shiny Celebi</p>
+    </div>
+    </div>
+    <button type="button" class="btn btn-primary">
+        Like
+      </button>
+      <button type="button" class="btn btn-primary">
+        Dislike
+      </button>
+      <button type="button" class="btn btn-primary">
+        Subscribe
+      </button>
+</body>
+</html>
